@@ -1,10 +1,10 @@
 {
-  "name": "angular-route-lts",
-  "version": "1.8.4",
+  "name": "bower-angular-route-lts",
+  "version": "1.8.5",
   "license": "MIT",
   "main": "./angular-route.js",
   "ignore": [],
   "dependencies": {
-    "angular": "1.8.4"
+    "angular": "1.8.5"
   }
 }
