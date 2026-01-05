@@ -1,2 +1,3 @@
-require('./angular-route');
-module.exports = 'ngRoute';
+import './angular-route.js';
+
+export default window.ngRoute;
